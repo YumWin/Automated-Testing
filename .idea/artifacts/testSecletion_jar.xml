@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="testSecletion:jar">
+    <output-path>$PROJECT_DIR$/Demo</output-path>
+    <root id="root">
+      <element id="archive" name="Automated-Testing.jar">
+        <element id="module-output" name="Project" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../WALA/com.ibm.wala.util-1.5.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../WALA/com.ibm.wala.core-1.5.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../WALA/com.ibm.wala.cast-1.5.5.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../WALA/com.ibm.wala.shrike-1.5.5.jar" />
+    </root>
+  </artifact>
+</component>
