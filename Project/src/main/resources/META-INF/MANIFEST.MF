@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: com.ibm.wala.util-1.5.5.jar com.ibm.wala.core-1.5.5.jar co
+ m.ibm.wala.cast-1.5.5.jar com.ibm.wala.core-1.5.5.jar com.ibm.wala.ut
+ il-1.5.5.jar com.ibm.wala.shrike-1.5.5.jar com.ibm.wala.shrike-1.5.5.
+ jar com.ibm.wala.cast-1.5.5.jar
+Main-Class: automatedWALA
+
